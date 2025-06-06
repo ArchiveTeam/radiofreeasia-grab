@@ -1,6 +1,6 @@
 # radiofreeasia-grab
 
-More information about the archiving project can be found on the ArchiveTeam wiki: [Radio Free Asia](https://wiki.archiveteam.org/index.php?title=Radio Free Asia)
+More information about the archiving project can be found on the ArchiveTeam wiki: [Radio Free Asia](https://wiki.archiveteam.org/index.php?title=Radio_Free_Asia)
 
 ## Setup instructions
 
